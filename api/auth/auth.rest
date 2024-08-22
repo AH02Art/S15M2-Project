@@ -2,7 +2,7 @@ POST http://localhost:9000/api/auth/register
 Content-Type: application/json
 
 {
-    "username": "Alex",
+    "username": "Jacob",
     "password": "1234",
     "role_name": "Chief Executive Officer"
 }
