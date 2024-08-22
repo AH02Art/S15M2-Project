@@ -1,0 +1,10 @@
+POST http://localhost:9000/api/auth/register
+Content-Type: application/json
+
+{
+    "username": "alex",
+    "password": 1234,
+    "role_name": "student"
+}
+
+####
